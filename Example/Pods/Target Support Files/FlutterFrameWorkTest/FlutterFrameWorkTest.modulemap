@@ -1,0 +1,6 @@
+framework module FlutterFrameWorkTest {
+  umbrella header "FlutterFrameWorkTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

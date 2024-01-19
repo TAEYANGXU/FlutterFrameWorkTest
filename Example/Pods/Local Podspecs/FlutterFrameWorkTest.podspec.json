@@ -1,0 +1,23 @@
+{
+  "name": "FlutterFrameWorkTest",
+  "version": "0.1.0",
+  "summary": "A short description of FlutterFrameWorkTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/TAEYANGXU/FlutterFrameWorkTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xuyanzhang": "albert_xyz@163.com"
+  },
+  "source": {
+    "git": "https://github.com/TAEYANGXU/FlutterFrameWorkTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "classes/*",
+  "vendored_frameworks": "framework/*"
+}

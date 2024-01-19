@@ -1,0 +1,16 @@
+PODS:
+  - FlutterFrameWorkTest (0.1.0)
+
+DEPENDENCIES:
+  - FlutterFrameWorkTest (from `../`)
+
+EXTERNAL SOURCES:
+  FlutterFrameWorkTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FlutterFrameWorkTest: 23c211aa5b7b64adc870c29d6c690cd7b2b52b07
+
+PODFILE CHECKSUM: 70eb216b796f2b06ff44294b1baccea17907534b
+
+COCOAPODS: 1.12.1
